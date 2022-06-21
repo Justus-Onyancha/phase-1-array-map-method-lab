@@ -85,14 +85,7 @@ The iterator function `map()` calls the callback for each element in turn,
 passing the element as an argument, and stores the return value in a new
 `Array`. When the iterations are complete, it returns that new array.
 
-```
-let array = [1,2,3,4,5]
 
-function arr(){
-  console.log(array)
-}
-
-```
 
 This code is more _expressive_ than the version using `for...of` because as soon
 as a developer sees that `map()` is being used, they know a lot about what the
@@ -234,3 +227,8 @@ expressive.
 ## Resources
 
 - [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+
+## Livelink
+
+- [This is the projects livelink](https://app.clickup.com/37249882/v/b/6-164763667-2)
