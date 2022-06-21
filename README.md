@@ -229,6 +229,3 @@ expressive.
 - [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 
-## Livelink
-
-- [This is the projects livelink](https://app.clickup.com/37249882/v/b/6-164763667-2)
