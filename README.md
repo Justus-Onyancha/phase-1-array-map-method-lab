@@ -224,12 +224,10 @@ new array. Its return value is a new array that is the same length as the
 original array. Using `map()` saves time while making the code simpler and more
 expressive.
 
-## Resources
+## Resource
 
 - [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 
 |Behaviour 	           |    Input 	                 |       Output          |
-|----------------------|:---------------------------:|----------------------:| 
-
-| this is a test| this is a test | this is a test| this is a test|
+|----------------------|:---------------------------:|----------------------:| | this is a test| this is a test | this is a test| 
