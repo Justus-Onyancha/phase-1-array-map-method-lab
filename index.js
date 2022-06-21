@@ -21,3 +21,5 @@ const titleCased = () => {
 		return titleCasedTutorial; // Return the full title cased sentence
 	})
 }
+
+// create a function that takes in a string and returns the string in title case
