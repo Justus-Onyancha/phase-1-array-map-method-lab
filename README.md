@@ -2,10 +2,10 @@
 
 ## Learning Goals
 
-```- Review how the `map()` method works
+- Review how the `map()` method works
 - Demonstrate `map()` with `Array`s
 - Demonstrate `map()` with complex data structures
-```
+
 ### follow
 
 - take this
@@ -84,6 +84,15 @@ few other programming languages allow that!
 The iterator function `map()` calls the callback for each element in turn,
 passing the element as an argument, and stores the return value in a new
 `Array`. When the iterations are complete, it returns that new array.
+
+```
+let array = [1,2,3,4,5]
+
+function arr(){
+  console.log(array)
+}
+
+```
 
 This code is more _expressive_ than the version using `for...of` because as soon
 as a developer sees that `map()` is being used, they know a lot about what the
