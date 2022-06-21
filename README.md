@@ -6,7 +6,6 @@
 - Demonstrate `map()` with `Array`s
 - Demonstrate `map()` with complex data structures
 ```
-
 ### follow
 
 - take this
