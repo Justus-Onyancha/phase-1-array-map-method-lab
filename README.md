@@ -12,7 +12,7 @@
 
 ## Introduction
 
-As developers, we find ourselves responsible for all sorts of common, but
+`As developers, we find ourselves responsible for all sorts of common, but`
 tedious, tasks, such as iterating over arrays. Although a `for` loop will work
 for these tasks, we can take advantage of a method like `map()` to save
 ourselves work and to organize and optimize our code, resulting in more readable
