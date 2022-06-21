@@ -236,4 +236,4 @@ expressive.
 
 https://www.space.com/spacex-starman-tesla-mars-flyby
 
-![alt text](https://www.space.com/spacex-starman-tesla-mars-flyby)
+![alt text](./images/pexels-thisisengineering-3861972.jpg)
