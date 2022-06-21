@@ -2,9 +2,10 @@
 
 ## Learning Goals
 
-- Review how the `map()` method works
+```- Review how the `map()` method works
 - Demonstrate `map()` with `Array`s
 - Demonstrate `map()` with complex data structures
+```
 
 ### follow
 
